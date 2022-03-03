@@ -1,1 +1,2 @@
-#!/bin/bash\nchown -h vins=cent:staff _hello
+#!/bin/bash
+chown -h vins=cent:staff _hello
