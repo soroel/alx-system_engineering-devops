@@ -1,1 +1,1 @@
-printing current working directory
+switching current user to betty
