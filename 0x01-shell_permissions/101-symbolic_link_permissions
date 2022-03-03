@@ -1,0 +1,1 @@
+#!/bin/bash\nchown -h vins=cent:staff _hello
