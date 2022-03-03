@@ -1,1 +1,1 @@
-set mode of the file
+set similar file modes
