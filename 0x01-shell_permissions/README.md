@@ -1,1 +1,1 @@
-change group owner for a file
+change owner and group owner for all fles in the directories
