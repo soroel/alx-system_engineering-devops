@@ -1,1 +1,1 @@
-switching to another user
+effective username of current user
