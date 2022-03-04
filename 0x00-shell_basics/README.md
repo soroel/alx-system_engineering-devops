@@ -1,1 +1,1 @@
-create a directory in tmp
+move file from tmp
