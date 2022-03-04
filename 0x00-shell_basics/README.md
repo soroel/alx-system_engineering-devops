@@ -1,1 +1,1 @@
-list files and directories
+create a magic file
