@@ -1,1 +1,1 @@
-create a magic file
+moves all files beginning with uppercase
