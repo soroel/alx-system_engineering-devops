@@ -1,1 +1,1 @@
-switching current user to betty
+listing long format
