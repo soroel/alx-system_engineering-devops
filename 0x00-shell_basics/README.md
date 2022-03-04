@@ -1,1 +1,1 @@
-create directories
+list files and directories
