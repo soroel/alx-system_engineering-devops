@@ -1,1 +1,1 @@
-display content of current directory with hidden files
+list file digits only
