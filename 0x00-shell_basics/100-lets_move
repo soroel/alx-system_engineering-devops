@@ -1,2 +1,2 @@
 #!/bin/bash
-mv II:upper:II* /tmp/u
+mv ii:upper:ii* /tmp/u
