@@ -1,1 +1,1 @@
-display users and homes
+finds empty files and directories
