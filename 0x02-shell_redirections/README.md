@@ -1,1 +1,1 @@
-create a file ending with a new line
+display confusing smiley face
