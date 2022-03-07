@@ -1,1 +1,1 @@
-list all files with .gif
+decodes acrostics that use first letter
