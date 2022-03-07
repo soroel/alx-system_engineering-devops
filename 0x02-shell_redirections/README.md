@@ -1,1 +1,1 @@
-display all users and their home directories
+display content of a file
