@@ -1,1 +1,1 @@
-display third line of a file
+count number of directories and sub directories
