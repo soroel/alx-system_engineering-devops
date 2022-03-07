@@ -1,1 +1,1 @@
-cwd state
+display third line of a file
