@@ -1,1 +1,1 @@
-display confused smiley
+display users and homes
