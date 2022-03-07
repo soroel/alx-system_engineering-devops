@@ -1,1 +1,1 @@
-delete all regular files
+duplicates last line of the file
