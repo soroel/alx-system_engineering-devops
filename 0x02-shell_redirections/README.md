@@ -1,1 +1,1 @@
-duplicates last line of the file
+print uniques words
