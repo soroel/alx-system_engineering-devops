@@ -1,1 +1,1 @@
-display a confused smiley face
+counts number of directories and sub-directories
