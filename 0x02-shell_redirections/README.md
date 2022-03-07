@@ -1,1 +1,1 @@
-display allines without bin
+display lines starting with a letter
