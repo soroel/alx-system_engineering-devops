@@ -1,1 +1,1 @@
-display content of the two files
+display first 10 lines
