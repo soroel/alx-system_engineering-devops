@@ -1,1 +1,1 @@
-display all users and their home directories
+ decodes acrostics that use the first letter of each line
