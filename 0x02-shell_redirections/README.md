@@ -1,1 +1,1 @@
-display lines containing the pattern "root"
+display all users and their home directories
