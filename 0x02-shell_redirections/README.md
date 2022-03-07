@@ -1,1 +1,1 @@
-display first 10 lines
+create a file ending with a new line
