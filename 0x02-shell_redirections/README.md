@@ -1,1 +1,1 @@
- decodes acrostics that use the first letter of each line
+display confused smiley face
