@@ -1,1 +1,1 @@
-adds the two numbers stored in the environment variables
+ prints all possible combinations of two letters, except oo.
