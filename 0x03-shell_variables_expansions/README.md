@@ -1,1 +1,1 @@
-encodes and decodes text using rot13 encryption
+adds the two numbers stored in the environment variables

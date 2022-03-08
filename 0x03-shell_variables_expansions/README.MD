@@ -1,1 +1,1 @@
- prints a number with two decimal places
+adds the two numbers stored in the environment variables
