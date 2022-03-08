@@ -1,1 +1,1 @@
-add file to path
+list environment variables
