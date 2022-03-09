@@ -1,1 +1,1 @@
- prints all possible combinations of two letters, except oo.
+converts sbase 10 to base 16
